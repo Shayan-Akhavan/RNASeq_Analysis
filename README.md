@@ -60,17 +60,23 @@ python RNASeq.py --input GSE71585_RefSeq_RPKM.csv.gz --output results/
 The script generates three visualizations:
 
 ### 1. Expression Distribution Plot
-![Expression Distribution](docs/images/expression_dist.png)
+![Image](https://github.com/user-attachments/assets/281ba1fd-6862-460b-9914-6952a5841d05)
 - Histogram showing distribution of gene expression levels
 - Log scale for better visualization of range
 
+
+
+
+
 ### 2. Variable Genes Heatmap
-![Heatmap](docs/images/heatmap.png)
+![Image](https://github.com/user-attachments/assets/cd55b07f-3c58-4655-9df3-d2560bbbd7d2)
 - Visualizes top 50 most variable genes
 - Helps identify expression patterns
 
+
+
 ### 3. PCA Plot
-![PCA Plot](docs/images/pca_plot.png)
+![Image](https://github.com/user-attachments/assets/78167ec5-84c6-4d4c-9986-fd4f62d753e1)
 - Shows first two principal components
 - Useful for identifying sample clusters
 
