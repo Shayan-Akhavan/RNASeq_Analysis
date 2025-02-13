@@ -27,8 +27,8 @@ A Python-based tool for exploratory analysis of RNA sequencing (RNA-Seq) data. T
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rnaseq-analysis.git
-cd rnaseq-analysis
+git@github.com:Shayan-Akhavan/RNASeq_Analysis.git
+cd RNASeq_Analysis
 ```
 
 2. Create a virtual environment (recommended):
